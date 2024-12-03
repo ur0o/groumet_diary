@@ -1,0 +1,8 @@
+// sample
+protocol: tcp
+host: host.docker.internal
+port: 3306
+name: sample
+user: root
+password: pass
+charset: utf8mb4
